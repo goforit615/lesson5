@@ -9,4 +9,8 @@ public class StudentName {
     public String getStudentName() {
         return studentName;
     }
+
+    public void setStudentName(String Name) {
+        studentName = Name;
+    }
 }
